@@ -6,8 +6,8 @@
 </div>
 
 ## Aim:
- * Contribute towards towards sustainable development.
- * Use advanced techniques to generate energy and food by using less inputs
+ * Advance towards pollution free world and Contribute towards sustainable development.
+ * Applying advanced techniques on the existing infrastructure to generate energy and food by using less inputs.
 
 
 ## 🤔 Inspiration and 😖 Pain points
@@ -44,10 +44,10 @@ While employment generation is a medium- to long-term concern, more urgent is su
 
 ## 🌟 Features of our platform
 
-People can rent their land and terraces for rooftop farming and solar power mini farms by just clicking a few pictures and mentioning some details.
-Generating an income which may help people to cut-off some electricity and food expenses can be achieved.
-Searching for the nearest location where land is available for terrace farming and small solar plants becomes possible.
-Many who are deprived of work due to this pandemic will get work.
+* People can rent their land and terraces for rooftop farming and solar power mini farms by just clicking a few pictures and mentioning some details.
+* Generating an income which may help people to cut-off some electricity and food expenses can be achieved.
+* Searching for the nearest location where land is available for terrace farming and small solar plants becomes possible.
+* Many who are deprived of work due to this pandemic will get work.
 
 
 ## 😊Problems we will be solving.
