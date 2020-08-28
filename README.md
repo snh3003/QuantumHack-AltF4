@@ -1,5 +1,10 @@
 # QuantumHack-AltF4
 
+<div align="center">
+<img src="" >
+
+</div>
+
 ## 🤔 Inspiration and 😖 Pain points
 The health and environmental impact of the coal industry for electricity includes issues such as land use, waste management, water, and air pollution, caused by coal mining, processing, and the use of its products. In addition to atmospheric pollution, coal burning produces hundreds of millions of tons of solid waste products annually, including fly ash, bottom ash, and flue-gas desulfurization sludge, which contains mercury, uranium, thorium, arsenic, and other heavy metals. Coal is the largest contributor to the human-made increase of CO2 in the atmosphere. There are severe health effects caused by burning coal. According to a report by the World Health Organization in 2008, coal particulates pollution is estimated to shorten approximately 10,000 lives annually worldwide.
 
