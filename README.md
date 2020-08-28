@@ -1,9 +1,14 @@
 # QuantumHack-AltF4
 
-<div align="center">
-<img src="" >
-
+<div align="center"><center>
+<img src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/logo.jpg" >
+ </center>
 </div>
+
+## Aim:
+ * Contribute towards towards sustainable development.
+ * Use advanced techniques to generate energy and food by using less inputs
+
 
 ## 🤔 Inspiration and 😖 Pain points
 The health and environmental impact of the coal industry for electricity includes issues such as land use, waste management, water, and air pollution, caused by coal mining, processing, and the use of its products. In addition to atmospheric pollution, coal burning produces hundreds of millions of tons of solid waste products annually, including fly ash, bottom ash, and flue-gas desulfurization sludge, which contains mercury, uranium, thorium, arsenic, and other heavy metals. Coal is the largest contributor to the human-made increase of CO2 in the atmosphere. There are severe health effects caused by burning coal. According to a report by the World Health Organization in 2008, coal particulates pollution is estimated to shorten approximately 10,000 lives annually worldwide.
@@ -15,13 +20,26 @@ While employment generation is a medium- to long-term concern, more urgent is su
 
 ## ✅ How we can help 
 
-We can use solar energy which is a renewable resource by using unused land and terraces of houses and buildings which shows the potential of solar energy as a viable power source for improving education and quality of life in remote rural villages in Nepal.
+<div>
+  <img height="600" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/hydro.JPG" ><span>
+ <img height="600" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/solar.JPG" ></span>
+ </div>
+### For Solar Farming
+- We can use solar energy which is a renewable resource by using unused land and terraces of houses and buildings which shows the potential of solar energy as a viable power source for improving education and quality of life in remote rural villages in Nepal.
 
-To use a photovoltaic system for lighting in rural areas and the surrounding community • To provide clean, portable small solar home systems for students and residents, significantly reducing the emission of toxic gases from the current use of kerosene lamps
+- To use a photovoltaic system for lighting in rural areas and the surrounding community • To provide clean, portable small solar home systems for students and residents, significantly reducing the emission of toxic gases from the current use of kerosene lamps.
 
-The acceptability of photovoltaic technology in rural Nepal is high. The government of Nepal and many international donors have supported more than 250,000 households in rural Nepal to install similar solar home systems in previous energy drives.
+- The acceptability of photovoltaic technology in rural Nepal is high. The government of Nepal and many international donors have supported more than 250,000 households in rural Nepal to install similar solar home systems in previous energy drives.
 
-The livelihoods of more than 13 million Nepalese are dependent on farming small terraced plots in remote hilly and mountainous regions where crop yields are low and food insecurity is high. The narrow terraces require planting and weeding by hand — time-consuming and tedious work that typically falls to women. We can provide unused lands and terraces of houses and buildings to these farmers where they can farm without risking their lives.
+- The livelihoods of more than 13 million Nepalese are dependent on farming small terraced plots in remote hilly and mountainous regions where crop yields are low and food insecurity is high. The narrow terraces require planting and weeding by hand — time-consuming and tedious work that typically falls to women. We can provide unused lands and terraces of houses and buildings to these farmers where they can farm without risking their lives.
+
+### For Crop Farming
+- We will use Hydroponics (a method of growing plants, usually crops, without soil, by using mineral nutrient solutions in an aqueous solvent).
+- Benefits of using Hydroponics for farming: 
+   * 10x Less Water
+   * 10x Less Land
+   * 20% Less Cost
+   * 0% Artificial Fertilizers
 
 
 ## 🌟 Features of our platform
