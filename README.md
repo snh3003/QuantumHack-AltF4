@@ -66,7 +66,16 @@ While employment generation is a medium- to long-term concern, more urgent is su
 
 ## Solar Project Calculations and Business Aspects
 
-Solar power plants, be they on rooftops or on the ground, require significant area. While solar power has some critical sustainability advantages over fossil-based thermal power.
+- Solar power plants, be they on rooftops or on the ground, require significant area. While solar power has some critical sustainability advantages over fossil-based thermal power.
  
-A simple rule of thumb is to take 100 sq ft for every 1kW of solar panels.
+- A simple rule of thumb is to take 100 sq ft for every 1kW of solar panels.
 Thus, a 1 MW solar power plant with crystalline panels (about 18% efficiency) will require about 4 acres, while the same plant with thin film technology (12% efficiency) will require about 6 acres. The area required by thin film panels is about 50% more than that for the crystalline, as the latter are about 50% more efficient than the former.
+
+## Crop Farming Calculations and Business Aspects
+
+- Rent based 
+
+- A simple rule of thumb is to take 100 sq m for 1000 saplings.
+Thus, Average Revenue ideal per roof top will be 20,000 INR. The crop yield will be 3x with less number of inputs as well as eco-friendly.
+
+
