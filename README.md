@@ -78,4 +78,12 @@ Thus, a 1 MW solar power plant with crystalline panels (about 18% efficiency) wi
 - A simple rule of thumb is to take 100 sq m for 1000 saplings.
 Thus, Average Revenue ideal per roof top will be 20,000 INR. The crop yield will be 3x with less number of inputs as well as eco-friendly.
 
+# Project Screenshots
 
+<div>
+  <img height="500" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/login.jpeg" >
+ <img height="500" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/crop.jpeg" >
+ <img height="500" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/signin.jpeg" >
+ <img height="500" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/solar.jpeg" >
+  
+</div>
