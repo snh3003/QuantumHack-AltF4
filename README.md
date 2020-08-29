@@ -23,7 +23,8 @@ While employment generation is a medium- to long-term concern, more urgent is su
 <div>
   <img height="600" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/hydro.JPG" ><span>
  <img height="600" src="https://github.com/snh3003/QuantumHack-AltF4/blob/master/images/solar.JPG" ></span>
- </div>
+</div>
+
 ### For Solar Farming
 - We can use solar energy which is a renewable resource by using unused land and terraces of houses and buildings which shows the potential of solar energy as a viable power source for improving education and quality of life in remote rural villages in Nepal.
 
